@@ -1,3 +1,4 @@
 New file
 deleted line
 git log --oneline --graph --color --all --decorate
+another line
